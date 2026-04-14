@@ -6,5 +6,5 @@ To install run
 ```
 sudo su
 cd / 
-curl https://raw.githubusercontent.com/ProgrammerIn-wonderland/Romulus-Firmware/refs/heads/main/microsoft-firmware.tar.xz | tar -xvJf -`
+curl https://raw.githubusercontent.com/ProgrammerIn-wonderland/Romulus-Firmware/refs/heads/main/microsoft-firmware.tar.xz | tar -xvJf -
 ```
